@@ -75,6 +75,3 @@ This project demonstrates automating the Tinder login and liking process using S
 - Ensure that your Chrome browser version matches the ChromeDriver version.
 - Be cautious when automating social media platforms; they may have terms of service that prohibit such automation.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
